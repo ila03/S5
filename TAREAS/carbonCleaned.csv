@@ -1,0 +1,219 @@
+name,value,carbon_date,ranking,region,"('name', 'region')"
+China,"10,773,248,000.0",2019,1,East and Southeast Asia,China
+UnitedStates,"5,144,361,000.0",2019,2,North America,UnitedStates
+India,"2,314,738,000.0",2019,3,South Asia,India
+Russia,"1,848,070,000.0",2019,4,Central Asia,Russia
+Japan,"1,103,234,000.0",2019,5,East and Southeast Asia,Japan
+Germany,"726,881,000.0",2019,6,Europe,Germany
+"Korea,South","686,954,000.0",2019,7,East and Southeast Asia,"Korea,South"
+Iran,"646,038,000.0",2019,8,Middle East,Iran
+Canada,"612,084,000.0",2019,9,North America,Canada
+SaudiArabia,"579,925,000.0",2019,10,Middle East,SaudiArabia
+Indonesia,"563,543,000.0",2019,11,East and Southeast Asia,Indonesia
+SouthAfrica,"470,358,000.0",2019,12,Africa,SouthAfrica
+Mexico,"463,739,000.0",2019,13,North America,Mexico
+Brazil,"456,670,000.0",2019,14,South America,Brazil
+Australia,"417,870,000.0",2019,15,Australia and Oceania,Australia
+UnitedKingdom,"398,084,000.0",2019,16,Europe,UnitedKingdom
+Turkey(Turkiye),"391,792,000.0",2019,17,Middle East,Turkey(Turkiye)
+France,"338,425,000.0",2019,18,Europe,France
+Italy,"332,041,000.0",2019,19,Europe,Italy
+Thailand,"305,273,000.0",2019,20,East and Southeast Asia,Thailand
+Poland,"304,040,000.0",2019,21,Europe,Poland
+Spain,"280,624,000.0",2019,22,Europe,Spain
+Taiwan,"279,206,000.0",2019,23,East and Southeast Asia,Taiwan
+UnitedArabEmirates,"276,236,000.0",2019,24,Middle East,UnitedArabEmirates
+Kazakhstan,"263,689,000.0",2019,25,Central Asia,Kazakhstan
+Malaysia,"254,764,000.0",2019,26,East and Southeast Asia,Malaysia
+Vietnam,"249,929,000.0",2019,27,East and Southeast Asia,Vietnam
+Singapore,"238,983,000.0",2019,28,East and Southeast Asia,Singapore
+Egypt,"235,137,000.0",2019,29,Africa,Egypt
+Netherlands,"214,416,000.0",2019,30,Europe,Netherlands
+Pakistan,"193,869,000.0",2019,31,South Asia,Pakistan
+Argentina,"193,205,000.0",2019,32,South America,Argentina
+Ukraine,"185,686,000.0",2019,33,Europe,Ukraine
+Algeria,"151,633,000.0",2019,34,Africa,Algeria
+Iraq,"143,479,000.0",2019,35,Middle East,Iraq
+Philippines,"142,282,000.0",2019,36,East and Southeast Asia,Philippines
+Belgium,"128,247,000.0",2019,37,Europe,Belgium
+Qatar,"111,922,000.0",2019,38,Middle East,Qatar
+Turkmenistan,"109,037,000.0",2019,39,Central Asia,Turkmenistan
+Nigeria,"104,494,000.0",2019,40,Africa,Nigeria
+Venezuela,"103,708,000.0",2019,41,South America,Venezuela
+Uzbekistan,"102,965,000.0",2019,42,Central Asia,Uzbekistan
+Czechia,"99,533,000.0",2019,43,Europe,Czechia
+Bangladesh,"96,180,000.0",2019,44,South Asia,Bangladesh
+Kuwait,"92,582,000.0",2019,45,Middle East,Kuwait
+HongKong,"92,493,000.0",2019,46,East and Southeast Asia,HongKong
+Chile,"88,333,000.0",2019,47,South America,Chile
+Colombia,"81,007,000.0",2019,48,South America,Colombia
+Oman,"76,321,000.0",2019,49,Middle East,Oman
+Greece,"70,163,000.0",2019,50,Europe,Greece
+Romania,"68,746,000.0",2019,51,Europe,Romania
+Austria,"65,540,000.0",2019,52,Europe,Austria
+Israel,"61,092,000.0",2019,53,Middle East,Israel
+Morocco,"60,200,000.0",2019,54,Africa,Morocco
+Peru,"54,996,000.0",2019,55,South America,Peru
+Belarus,"54,695,000.0",2019,56,Europe,Belarus
+Portugal,"50,370,000.0",2019,57,Europe,Portugal
+Hungary,"48,589,000.0",2019,58,Europe,Hungary
+Sweden,"48,144,000.0",2019,59,Europe,Sweden
+Serbia,"47,735,000.0",2019,60,Europe,Serbia
+Bahrain,"43,112,000.0",2019,61,Middle East,Bahrain
+Finland,"41,996,000.0",2019,62,Europe,Finland
+Laos,"40,726,000.0",2019,63,East and Southeast Asia,Laos
+NewZealand,"40,344,000.0",2019,64,Australia and Oceania,NewZealand
+TrinidadandTobago,"39,652,000.0",2019,65,Central America and the Caribbean,TrinidadandTobago
+Switzerland,"38,739,000.0",2019,66,Europe,Switzerland
+Bulgaria,"38,373,000.0",2019,67,Europe,Bulgaria
+Libya,"38,297,000.0",2019,68,Africa,Libya
+Norway,"36,731,000.0",2019,69,Europe,Norway
+Ecuador,"36,051,000.0",2019,70,South America,Ecuador
+Ireland,"35,475,000.0",2019,71,Europe,Ireland
+Azerbaijan,"35,389,000.0",2019,72,Middle East,Azerbaijan
+Denmark,"33,850,000.0",2019,73,Europe,Denmark
+Slovakia,"32,506,000.0",2019,74,Europe,Slovakia
+Burma,"31,848,000.0",2019,75,East and Southeast Asia,Burma
+Syria,"26,893,000.0",2019,76,Middle East,Syria
+DominicanRepublic,"26,808,000.0",2019,77,Central America and the Caribbean,DominicanRepublic
+Lebanon,"25,838,000.0",2019,78,Middle East,Lebanon
+Panama,"25,263,000.0",2019,79,Central America and the Caribbean,Panama
+SriLanka,"23,939,000.0",2019,80,South Asia,SriLanka
+Tunisia,"23,692,000.0",2019,81,Africa,Tunisia
+Jordan,"23,470,000.0",2019,82,Middle East,Jordan
+Mongolia,"22,740,000.0",2019,83,East and Southeast Asia,Mongolia
+Angola,"19,362,000.0",2019,84,Africa,Angola
+Guatemala,"19,041,000.0",2019,85,Central America and the Caribbean,Guatemala
+PuertoRico,"18,999,000.0",2019,86,Central America and the Caribbean,PuertoRico
+"Korea,North","18,465,000.0",2019,87,East and Southeast Asia,"Korea,North"
+Ghana,"18,093,000.0",2019,88,Africa,Ghana
+Bolivia,"17,786,000.0",2019,89,South America,Bolivia
+Kenya,"17,709,000.0",2019,90,Africa,Kenya
+Sudan,"17,319,000.0",2019,91,Africa,Sudan
+Ethiopia,"16,798,000.0",2019,92,Africa,Ethiopia
+Croatia,"16,752,000.0",2019,93,Europe,Croatia
+Cuba,"16,478,000.0",2019,94,Central America and the Caribbean,Cuba
+BosniaandHerzegovina,"16,209,000.0",2019,95,Europe,BosniaandHerzegovina
+Lithuania,"14,503,000.0",2019,96,Europe,Lithuania
+Gibraltar,"14,256,000.0",2019,97,Europe,Gibraltar
+Cambodia,"13,844,000.0",2019,98,East and Southeast Asia,Cambodia
+Slovenia,"13,553,000.0",2019,99,Europe,Slovenia
+Coted'Ivoire,"11,880,000.0",2019,100,Africa,Coted'Ivoire
+Tanzania,"11,491,000.0",2019,101,Africa,Tanzania
+Luxembourg,"11,308,000.0",2019,102,Europe,Luxembourg
+Senegal,"10,696,000.0",2019,103,Africa,Senegal
+Georgia,"10,299,000.0",2019,104,Middle East,Georgia
+Yemen,"10,158,000.0",2019,105,Middle East,Yemen
+Jamaica,"10,002,000.0",2019,106,Central America and the Caribbean,Jamaica
+Brunei,"9,956,000.0",2019,107,East and Southeast Asia,Brunei
+Malta,"9,576,000.0",2019,108,Europe,Malta
+Honduras,"8,523,000.0",2019,109,Central America and the Caribbean,Honduras
+Latvia,"8,450,000.0",2019,110,Europe,Latvia
+CostaRica,"8,115,000.0",2019,111,Central America and the Caribbean,CostaRica
+Moldova,"8,114,000.0",2019,112,Europe,Moldova
+Cyprus,"8,024,000.0",2019,113,Europe,Cyprus
+Kosovo,"8,009,000.0",2019,114,Europe,Kosovo
+Zimbabwe,"7,902,000.0",2019,115,Africa,Zimbabwe
+Paraguay,"7,896,000.0",2019,116,South America,Paraguay
+Afghanistan,"7,893,000.0",2019,117,South Asia,Afghanistan
+Kyrgyzstan,"7,880,000.0",2019,118,Central Asia,Kyrgyzstan
+Mozambique,"7,753,000.0",2019,119,Africa,Mozambique
+Nepal,"7,708,000.0",2019,120,South Asia,Nepal
+Tajikistan,"7,643,000.0",2019,121,Central Asia,Tajikistan
+ElSalvador,"7,632,000.0",2019,122,Central America and the Caribbean,ElSalvador
+NorthMacedonia,"7,383,000.0",2019,123,Europe,NorthMacedonia
+Mauritius,"7,191,000.0",2019,124,Africa,Mauritius
+Cameroon,"7,105,000.0",2019,125,Africa,Cameroon
+Benin,"6,903,000.0",2019,126,Africa,Benin
+Zambia,"6,798,000.0",2019,127,Africa,Zambia
+PapuaNewGuinea,"6,491,000.0",2019,128,East and Southeast Asia,PapuaNewGuinea
+Uruguay,"6,450,000.0",2019,129,South America,Uruguay
+Armenia,"6,354,000.0",2019,130,Middle East,Armenia
+Botswana,"5,965,000.0",2019,131,Africa,Botswana
+NewCaledonia,"5,886,000.0",2019,132,Australia and Oceania,NewCaledonia
+Uganda,"5,841,000.0",2019,133,Africa,Uganda
+Mali,"5,679,000.0",2019,134,Africa,Mali
+Estonia,"4,924,000.0",2019,135,Europe,Estonia
+Nicaragua,"4,851,000.0",2019,136,Central America and the Caribbean,Nicaragua
+EquatorialGuinea,"4,528,000.0",2019,137,Africa,EquatorialGuinea
+"Congo,Republicofthe","4,523,000.0",2019,138,Africa,"Congo,Republicofthe"
+BurkinaFaso,"4,444,000.0",2019,139,Africa,BurkinaFaso
+Madagascar,"4,218,000.0",2019,140,Africa,Madagascar
+Mauritania,"4,041,000.0",2019,141,Africa,Mauritania
+"Bahamas,The","3,984,000.0",2019,142,Central America and the Caribbean,"Bahamas,The"
+Namibia,"3,831,000.0",2019,143,Africa,Namibia
+Albania,"3,794,000.0",2019,144,Europe,Albania
+GazaStrip,"3,341,000.0",2019,145,Middle East,GazaStrip
+WestBank,"3,341,000.0",2019,146,Middle East,WestBank
+Iceland,"3,337,000.0",2019,147,Europe,Iceland
+Haiti,"3,139,000.0",2019,148,Central America and the Caribbean,Haiti
+Guinea,"2,981,000.0",2019,149,Africa,Guinea
+Guyana,"2,743,000.0",2019,150,South America,Guyana
+"Congo,DemocraticRepublicofthe","2,653,000.0",2019,151,Africa,"Congo,DemocraticRepublicofthe"
+Gabon,"2,651,000.0",2019,152,Africa,Gabon
+Montenegro,"2,447,000.0",2019,153,Europe,Montenegro
+VirginIslands,"2,438,000.0",2019,154,Central America and the Caribbean,VirginIslands
+Niger,"2,374,000.0",2019,155,Africa,Niger
+Suriname,"2,372,000.0",2019,156,South America,Suriname
+Maldives,"2,286,000.0",2019,157,South Asia,Maldives
+Togo,"2,244,000.0",2019,158,Africa,Togo
+Macau,"2,012,000.0",2019,159,East and Southeast Asia,Macau
+Guam,"1,828,000.0",2019,160,Australia and Oceania,Guam
+SouthSudan,"1,778,000.0",2019,161,Africa,SouthSudan
+Chad,"1,771,000.0",2019,162,Africa,Chad
+Barbados,"1,703,000.0",2019,163,Central America and the Caribbean,Barbados
+Fiji,"1,691,000.0",2019,164,Australia and Oceania,Fiji
+Malawi,"1,542,000.0",2019,165,Africa,Malawi
+Liberia,"1,346,000.0",2019,166,Africa,Liberia
+WakeIsland,"1,275,000.0",2019,167,Australia and Oceania,WakeIsland
+Aruba,"1,254,000.0",2019,168,Central America and the Caribbean,Aruba
+Eswatini,"1,224,000.0",2019,169,Africa,Eswatini
+Rwanda,"1,189,000.0",2019,170,Africa,Rwanda
+Seychelles,"1,156,000.0",2019,171,Africa,Seychelles
+FrenchPolynesia,"1,030,000.0",2019,172,Australia and Oceania,FrenchPolynesia
+CaboVerde,"1,002,000.0",2019,173,Africa,CaboVerde
+Bhutan,"934,000.0",2019,174,South Asia,Bhutan
+SierraLeone,"899,000.0",2019,175,Africa,SierraLeone
+Somalia,"882,000.0",2019,176,Africa,Somalia
+FaroeIslands,"870,000.0",2019,177,Europe,FaroeIslands
+CaymanIslands,"808,000.0",2019,178,Central America and the Caribbean,CaymanIslands
+Eritrea,"798,000.0",2019,179,Africa,Eritrea
+Bermuda,"796,000.0",2019,180,North America,Bermuda
+Lesotho,"736,000.0",2019,181,Africa,Lesotho
+AntiguaandBarbuda,"729,000.0",2019,182,Central America and the Caribbean,AntiguaandBarbuda
+Burundi,"715,000.0",2019,183,Africa,Burundi
+SaintLucia,"659,000.0",2019,184,Central America and the Caribbean,SaintLucia
+Djibouti,"610,000.0",2019,185,Africa,Djibouti
+"Gambia,The","606,000.0",2019,186,Africa,"Gambia,The"
+Greenland,"605,000.0",2019,187,North America,Greenland
+Belize,"541,000.0",2019,188,Central America and the Caribbean,Belize
+Timor-Leste,"538,000.0",2019,189,East and Southeast Asia,Timor-Leste
+Jersey,"450,000.0",2012,190,Europe,Jersey
+AmericanSamoa,"355,000.0",2019,191,Australia and Oceania,AmericanSamoa
+Samoa,"355,000.0",2019,192,Australia and Oceania,Samoa
+Guinea-Bissau,"342,000.0",2019,193,Africa,Guinea-Bissau
+SolomonIslands,"333,000.0",2019,194,Australia and Oceania,SolomonIslands
+Comoros,"326,000.0",2019,195,Africa,Comoros
+Grenada,"316,000.0",2019,196,Central America and the Caribbean,Grenada
+MarshallIslands,"293,700.0",2017,197,Australia and Oceania,MarshallIslands
+CentralAfricanRepublic,"285,000.0",2019,198,Africa,CentralAfricanRepublic
+SaintKittsandNevis,"268,000.0",2019,199,Central America and the Caribbean,SaintKittsandNevis
+TurksandCaicosIslands,"245,000.0",2019,200,Central America and the Caribbean,TurksandCaicosIslands
+Vanuatu,"225,000.0",2019,201,Australia and Oceania,Vanuatu
+SaintVincentandtheGrenadines,"202,000.0",2019,202,Central America and the Caribbean,SaintVincentandtheGrenadines
+Dominica,"182,000.0",2019,203,Central America and the Caribbean,Dominica
+"Micronesia,FederatedStatesof","177,000.0",2019,204,Australia and Oceania,"Micronesia,FederatedStatesof"
+BritishVirginIslands,"173,000.0",2019,205,Central America and the Caribbean,BritishVirginIslands
+SaoTomeandPrincipe,"173,000.0",2019,206,Africa,SaoTomeandPrincipe
+Tonga,"171,000.0",2019,207,Australia and Oceania,Tonga
+CookIslands,"114,000.0",2019,208,Australia and Oceania,CookIslands
+SaintPierreandMiquelon,"84,000.0",2019,209,North America,SaintPierreandMiquelon
+Kiribati,"76,000.0",2019,210,Australia and Oceania,Kiribati
+Nauru,"66,000.0",2019,211,Australia and Oceania,Nauru
+FalklandIslands(IslasMalvinas),"46,000.0",2019,212,South America,FalklandIslands(IslasMalvinas)
+Montserrat,"33,000.0",2019,213,Central America and the Caribbean,Montserrat
+Antarctica,"28,000.0",2019,214,Antarctica,Antarctica
+"SaintHelena,Ascension,andTristandaCunha","13,000.0",2019,215,Africa,"SaintHelena,Ascension,andTristandaCunha"
+Niue,"8,000.0",2019,216,Australia and Oceania,Niue
+NorthernMarianaIslands,0.0,2019,217,Australia and Oceania,NorthernMarianaIslands
+Tuvalu,0.0,2019,218,Australia and Oceania,Tuvalu
